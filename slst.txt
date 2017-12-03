@@ -1,0 +1,14 @@
+* Shopping List
+
+** Groceries
+- beef
+- mushrooms (not magic)
+
+** Household stuff
+- soap
+- tissues
+
+** Electronics
+- AAA batteries
+
+** Luxury items
